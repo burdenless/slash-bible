@@ -1,6 +1,5 @@
 # SlashBible
-
-**TODO: Add description**
+<img src="https://user-images.githubusercontent.com/6267544/123466440-3118e500-d5a4-11eb-9030-6b9c3aefa7fa.png" width=15% height=15%>
 
 ## Installation
 
